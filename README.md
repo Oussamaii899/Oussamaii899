@@ -34,7 +34,6 @@ I value teamwork, discipline, collaboration, and learning new technologies.
 
 ## 📫 Connect With Me
 
-* 📱 Phone: 0700259378 / 0644918858
 * 📧 Email: [oussama.sbaa47@gmail.com](mailto:oussama.sbaa47@gmail.com)
 * 🌍 Portfolio: Coming Soon
 
