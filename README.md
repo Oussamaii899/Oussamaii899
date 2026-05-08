@@ -1,16 +1,47 @@
-## Hi there 👋
+# Hi 👋 I'm Oussama Sbaa
 
-<!--
-**Oussamaii899/Oussamaii899** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
 
-Here are some ideas to get you started:
+### 💻 Full-Stack Developer | DevOps Enthusiast
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  🚀 Building scalable applications • ⚙️ Automating workflows • 🔒 Learning modern DevOps practices
+</p>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00C2FF&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;DevOps+Enthusiast;Passionate+about+Technology;Building+Scalable+Solutions;Always+Learning+New+Things" alt="Typing SVG" />
+
+</div>
+
+---
+
+## 👨‍💻 About Me
+
+I am a motivated and organized Full-Stack Developer passionate about technology and problem solving.
+I enjoy building structured and efficient solutions while continuously improving my technical and professional skills.
+I value teamwork, discipline, collaboration, and learning new technologies.
+
+---
+
+## 🛠️ Tech & Tools
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=laravel,react,mysql,postgres,symfony,nodejs,angular,spring,java,javascript,html,css,php,git,github,vscode,linux,postman,docker,mongo,tailwind,bootstrap,nginx,typescript,python" />
+
+</div>
+
+---
+
+## 📫 Connect With Me
+
+* 📱 Phone: 0700259378 / 0644918858
+* 📧 Email: [oussama.sbaa47@gmail.com](mailto:oussama.sbaa47@gmail.com)
+* 🌍 Portfolio: Coming Soon
+
+---
+
+<div align="center">
+
+### ⭐ "Success comes from consistency, discipline, and continuous learning."
+
+</div>
